@@ -1,2 +1,2 @@
-- [x] create ideas repo on GitHub
-- [] come up with ideas
+- ~~create ideas repo on GitHub~~
+- come up with ideas
