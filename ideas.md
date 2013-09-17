@@ -19,7 +19,7 @@ IDEAS:
 
 * Winning the Library of Congress XML Data Mapping challenge.  
 
-###From DC City Council Counseler, David 
+###From DC City Council
 
 * the nation’s first state-level, open-source, UELMA-compliant code of laws. This will require DC Legal Hacker investment in time and energy to make it really work.
 
