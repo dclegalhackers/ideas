@@ -6,7 +6,7 @@ Ideas for a legal hacking. Also a great place for your first Pull Request.
 
 To see the actual ideas, view [`ideas.md`](https://github.com/dclegalhackers/ideas/blob/master/ideas.md).
 
-To add an idea or to edit the page:
+To add an idea or to [edit](https://github.com/dclegalhackers/ideas/edit/master/ideas.md) the page:
 
 1. Make sure you have a GitHub account. If you don't, you can sign up for one [here](http://github.com).
 2. Beginners can just click "edit", make changes to the text, and click "commit changes" at the bottom of the page.
