@@ -13,3 +13,4 @@ To add an idea or to edit the page:
 3. Non-beginners can just send a [Pull Request](https://help.github.com/articles/using-pull-requests).
 4. Finally, `ideas.md` is written using [Markdown](http://daringfireball.net/projects/markdown/syntax).
 
+If you're interested in who came up with a certain idea (or who edited your own idea), click ["blame"](https://github.com/dclegalhackers/ideas/blame/master/ideas.md) on the `ideas.md` page. It's great introduction to appreciating the features of Git and GitHub.
