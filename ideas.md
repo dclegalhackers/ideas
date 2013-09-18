@@ -22,6 +22,10 @@ IDEAS:
 * Fix Legal Search 
 * and make searching discovery documents as easy as googling
 
+* Improve data model of Legal Services Organizations so that people can search for nearby legal help by address and zip code
+
+* With resulting improved data, build app/tool that effectively maps resources (and opens door for further open data initiatives mapping legal needs across the US/territories
+
 ###From DC City Council
 
 * the nation’s first state-level, open-source, UELMA-compliant code of laws. This will require DC Legal Hacker investment in time and energy to make it really work.
