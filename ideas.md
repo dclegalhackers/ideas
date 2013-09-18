@@ -19,6 +19,8 @@ IDEAS:
 
 * Winning the Library of Congress XML Data Mapping challenge.  
 
+* Fix Legal Search
+
 ###From DC City Council
 
 * the nation’s first state-level, open-source, UELMA-compliant code of laws. This will require DC Legal Hacker investment in time and energy to make it really work.
@@ -26,4 +28,3 @@ IDEAS:
 * Motions and Amendments. Over the last few months, I’ve been posting data of “contested” motions offered at the Council. I’ve put together a funky website showing how it might be used.  http://vzvenyach.github.io/Council_Motions/ to show the minimum, but there’s a lot of great data on the backend.
 
 * Data modeling. It would be a neat effort to put together a comprehensive data model for the DC legal framework. A good place to start would be to work on the DC Register and the DC Municipal Regulations. There’s been almost no effort to build a structured data model for this critical regulatory framework…
-
