@@ -1,9 +1,13 @@
+###To do:
 - ~~create ideas repo on GitHub~~
 - come up with ideas
+- aggregate from other *idea sources* and list
+- make this idea page better looking
 
-IDEAS: 
 
-###From Meetup Start
+##IDEAS: 
+
+###Issue Examples pre-Meetup
 
 * Improving agency comment filing and document databases through enhanced searching and contextual analysis.
 
@@ -19,7 +23,10 @@ IDEAS:
 
 * Winning the Library of Congress XML Data Mapping challenge.  
 
+###From Issue Spotting Meetup
+
 * Fix Legal Search 
+
 * and make searching discovery documents as easy as googling
 
 * Improve data model of Legal Services Organizations so that people can search for nearby legal help by address and zip code
