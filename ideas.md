@@ -19,7 +19,8 @@ IDEAS:
 
 * Winning the Library of Congress XML Data Mapping challenge.  
 
-* Fix Legal Search
+* Fix Legal Search 
+* and make searching discovery documents as easy as googling
 
 ###From DC City Council
 
