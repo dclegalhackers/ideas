@@ -33,6 +33,12 @@
 
 * With resulting improved data, build app/tool that effectively maps resources (and opens door for further open data initiatives mapping legal needs across the US/territories
 
+###Other ideas
+
+* Court rules in markdown/low-cost apps
+
+* pin cite checker (compare quoted language to pin cited page using google scholar or other site)
+
 ###From DC City Council
 
 * the nation’s first state-level, open-source, UELMA-compliant code of laws. This will require DC Legal Hacker investment in time and energy to make it really work.
